@@ -16,7 +16,7 @@ import java.util.List;
 public class AutotestSimbirsoft {
     public static WebDriver driver;
     public static WebDriverWait wait;
-    public static String path;
+
 
     @Before
     public void setUp() throws IOException {
